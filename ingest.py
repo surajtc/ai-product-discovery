@@ -67,7 +67,7 @@ def add_products_to_chroma():
 
     if documents:
         try:
-            vector_store.add_documents(documents=documents, ids=[i for i in range(10)])
+            vector_store.add_documents(documents=documents, ids=[str(i) for i in range(10)])
             print(
                 f"Successfully added {len(documents)} products to Chroma vector store"
             )
