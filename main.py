@@ -25,4 +25,3 @@ results = vector_store.similarity_search(
 )
 for res in results:
     print(f"* {res.page_content} [{res.metadata}]")
-

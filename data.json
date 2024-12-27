@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "details": {
+        "name": "Nike Air Jordan 1 Retro High",
+        "description": "Iconic basketball sneaker featuring premium leather construction and Air cushioning for all-day comfort",
+        "image": "https://example.com/images/air_jordan_1_retro.jpg"
+      },
+      "link": "https://example.com/products/air-jordan-1-retro"
+    },
+    {
+      "id": 2,
+      "details": {
+        "name": "Nike Dunk Low Premium",
+        "description": "Classic skateboarding-inspired design with durable leather upper and padded collar for enhanced comfort",
+        "image": "https://example.com/images/dunk_low_premium.jpg"
+      },
+      "link": "https://example.com/products/dunk-low-premium"
+    },
+    {
+      "id": 3,
+      "details": {
+        "name": "Nike Air Force 1 '07",
+        "description": "Timeless street style sneaker with full-grain leather and Nike Air technology for superior cushioning",
+        "image": "https://example.com/images/air_force_1.jpg"
+      },
+      "link": "https://example.com/products/air-force-1"
+    },
+    {
+      "id": 4,
+      "details": {
+        "name": "Nike Air Max 270",
+        "description": "Modern lifestyle shoe featuring Nike's tallest Air unit yet for incredible cushioning and style",
+        "image": "https://example.com/images/air_max_270.jpg"
+      },
+      "link": "https://example.com/products/air-max-270"
+    },
+    {
+      "id": 5,
+      "details": {
+        "name": "Nike ZoomX Vaporfly Next%",
+        "description": "Elite racing shoe with ZoomX foam and carbon fiber plate for ultimate speed and energy return",
+        "image": "https://example.com/images/vaporfly_next.jpg"
+      },
+      "link": "https://example.com/products/vaporfly-next"
+    },
+    {
+      "id": 6,
+      "details": {
+        "name": "Nike Blazer Mid '77",
+        "description": "Vintage-inspired basketball shoe with classic styling and modern comfort features",
+        "image": "https://example.com/images/blazer_mid_77.jpg"
+      },
+      "link": "https://example.com/products/blazer-mid-77"
+    },
+    {
+      "id": 7,
+      "details": {
+        "name": "Nike React Infinity Run",
+        "description": "Running shoe designed to help reduce injury with React foam technology and stability features",
+        "image": "https://example.com/images/react_infinity.jpg"
+      },
+      "link": "https://example.com/products/react-infinity"
+    },
+    {
+      "id": 8,
+      "details": {
+        "name": "Nike SB Zoom Stefan Janoski",
+        "description": "Signature skateboarding shoe with minimalist design and excellent board feel",
+        "image": "https://example.com/images/sb_janoski.jpg"
+      },
+      "link": "https://example.com/products/sb-janoski"
+    },
+    {
+      "id": 9,
+      "details": {
+        "name": "Nike Metcon 7",
+        "description": "Cross-training shoe built for stability and durability during high-intensity workouts",
+        "image": "https://example.com/images/metcon_7.jpg"
+      },
+      "link": "https://example.com/products/metcon-7"
+    },
+    {
+      "id": 10,
+      "details": {
+        "name": "Nike Air Zoom Pegasus 38",
+        "description": "Versatile running shoe with responsive cushioning and breathable mesh upper for everyday training",
+        "image": "https://example.com/images/pegasus_38.jpg"
+      },
+      "link": "https://example.com/products/pegasus-38"
+    }
+  ]
+}
