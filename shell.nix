@@ -4,6 +4,7 @@
   targetPkgs = pkgs:
     with pkgs; [
       python3
+      uv
       gcc
 
       which
